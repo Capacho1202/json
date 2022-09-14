@@ -1,0 +1,19 @@
+[{
+        "nombre": "Jose",
+        "apellido": "Perez",
+        "telefono": 663636373,
+        "cedula": 1323423
+    }, {
+        "nombre": "Valentino",
+        "apellido": "Rozzi",
+        "telefono": 663636373,
+        "cedula": 47
+    },
+    {
+        "nombre": "fernando",
+        "apellido": "Rozzi",
+        "telefono": 663636373,
+        "cedula": 47
+    }
+
+]
